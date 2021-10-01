@@ -9,7 +9,7 @@ class Home extends Component {
         return (  
             <div className="home-container">
                 <div className="header-text">
-                    <h1>Welcome to my porfolio!</h1>
+                    <h1>Welcome to my portfolio!</h1>
                     <p>This is Pappu, a full stack dev and creater</p>
                 </div>
                 <div className="head-btns">
