@@ -48,7 +48,7 @@ export const projectsData = [
         projectDescription:
             'This is my own portfolio  It highlights and showcases samples of some of my best work, along with life experiences, values and achievements. Build using html, css, javascript andReact.js.',
         imageUrl: 'https://github.com/pappu-kumar/images/blob/main/project-image/proj6.png?raw=true',
-        liveUrl: 'https://pappu-kumar.github.io/Portfolio/',
-        projectUrl: 'https://github.com/pappu-kumar/Portfolio',
+        liveUrl: 'http://pappu-kumar.github.io/pappu-portfolio',
+        projectUrl: 'https://github.com/pappu-kumar/pappu-portfolio',
     },
 ];
